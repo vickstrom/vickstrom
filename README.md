@@ -13,7 +13,7 @@ A few honorable mentions are
 
 🃏 Why not a game of your favourite childhood game [Memory](https://github.com/vickstrom/socket-io-memory)! With a taste of **Express**, **Socket.IO** and **Animation.CSS**. 
 
-🤖 Maybe automate your machine learning model evaulation with the help of [this](https://github.com/vickstrom/automation-of-model-evaluation) guide, so you can continue playing the games above 😉
+🤖 Automate your machine learning model evaulation with the help of [this](https://github.com/vickstrom/automation-of-model-evaluation) guide, so you can continue playing the games above 😉
 
 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/eric-vickstrom/)! 
 
