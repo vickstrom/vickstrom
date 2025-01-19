@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm currently studying my fifth and final year at 
-
 🏫 M.Sc. Student - Computer Science, KTH Royal Institute of Technology with specialization Software Technology.
 
 
