@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-🏫 M.Sc. Student - Computer Science, KTH Royal Institute of Technology with specialization Software Technology.
-
-
 ### Projects 
 
 A few honorable mentions are
